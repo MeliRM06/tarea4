@@ -1,0 +1,208 @@
+#contenedor
+{
+    width: 900px;
+    height: 900px;
+    background-color:darksalmon;
+    margin: auto;
+}
+#cabeza
+{
+    width: 260px;
+    height: 250px;
+    background-color:rgb(71, 29, 29);
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    top: 70px;
+    border-radius: 100%;
+    border: solid;
+    
+}
+#ojo1
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    position:  absolute;
+    left: 50px;
+    top: 70px;
+    border-radius: 100%;
+    border: solid;
+    
+}
+#ojo2
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(231, 225, 225);
+    display: inline-block;
+    position:  absolute;
+    left: 150px;
+    top: 70px;
+    border-radius: 100%;
+    border: solid;
+    
+}
+#punto1
+{
+    width: 18px;
+    height: 18px;
+    background-color: black;
+    position: absolute;
+    border-radius: 100%;
+    left: 14px;
+    top: 15px;
+}
+#punto2
+{
+    width: 18px;
+    height: 18px;
+    background-color: black;
+    position: absolute;
+    border-radius: 100%;
+    left: 14px;
+    top: 15px;
+}
+#nariz
+{
+    width: 28px;
+    height: 28px;
+    background-color: rgb(39, 25, 25);
+    position: absolute;
+    top: 140px;
+    left: 115px;
+    border-radius: 100%;
+    border: solid;
+    
+}
+#boca
+{
+    width: 55px;
+    height: 5px;
+    background-color: rgb(56, 12, 12);
+    position: absolute;
+    top: 190px;
+    left: 100px;
+    border-radius: 30%;
+    border: solid;
+}
+#cuerpo
+{
+    width: 330px;
+    height: 350px;
+    background-color:rgb(71, 29, 29);
+    position: relative;
+    left: 270px;
+    top: 60px;
+    border-radius: 100%;
+    border: solid;
+
+}
+#redondo
+{
+    width: 245px;
+    height: 245px;
+    background-color:rgb(94, 53, 53);
+    position: relative;
+    left: 40px;
+    top:45px;
+    border-radius: 100%;
+    border: solid;
+}
+#brazo1
+{
+    width: 220px;
+    height: 100px;
+    background-color:rgb(71, 29, 29);
+    position: relative;
+    transform: rotate(-10deg);
+    left: -120px;
+    top:-240px;
+    border-radius: 40%;
+    border: solid;
+}
+#brazo2
+{
+    width: 220px;
+    height: 100px;
+    background-color:rgb(71, 29, 29);
+    position: relative;
+    transform: rotate(20deg);
+    left: 200px;
+    top:-335px;
+    border-radius: 40%;
+    border: solid;
+}
+#pie
+{
+    width: 200px;
+    height: 110px;
+    background-color:rgb(71, 29, 29);
+    position: relative;
+    transform: rotate(-25deg);
+    left: -70px;
+    top:-165px;
+    border-radius: 40%;
+    border: solid;
+}
+#pie2
+{
+    width: 200px;
+    height: 110px;
+    background-color:rgb(71, 29, 29);
+    position: relative;
+    transform: rotate(25deg);
+    left: 200px;
+    top:-270px;
+    border-radius: 40%;
+    border: solid;
+}
+#oreja
+{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(71, 29, 29);
+    
+    position:  absolute;
+    left: 610px;
+    top: 120px;
+    border-radius: 100%;
+    border: solid;
+}
+#oreja2
+{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(71, 29, 29);
+    
+    position:  absolute;
+    left: 850px;
+    top: 120px;
+    border-radius: 100%;
+    border: solid;
+}
+#r1
+{
+    width: 45px;
+    height: 45px;
+    background-color:rgb(94, 53, 53);
+    position: relative;
+    left: 22px;
+    top:25px;
+    border-radius: 100%;
+    border: solid;
+
+}
+#r2
+{
+    width: 45px;
+    height: 45px;
+    background-color:rgb(94, 53, 53);
+    position: relative;
+    left: 22px;
+    top:25px;
+    border-radius: 100%;
+    border: solid;
+
+}
